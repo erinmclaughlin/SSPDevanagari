@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn.sc" format="1">
+  <advance width="416"/>
+  <outline>
+    <contour>
+      <point x="83" y="427" type="line"/>
+      <point x="111" y="427" type="line"/>
+      <point x="111" y="350" type="line"/>
+      <point x="207" y="350" type="line" smooth="yes"/>
+      <point x="311" y="350"/>
+      <point x="372" y="318"/>
+      <point x="372" y="231" type="curve" smooth="yes"/>
+      <point x="372" y="148"/>
+      <point x="312" y="107"/>
+      <point x="207" y="107" type="curve" smooth="yes"/>
+      <point x="111" y="107" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="130" type="line" smooth="yes"/>
+      <point x="297" y="130"/>
+      <point x="344" y="160"/>
+      <point x="344" y="231" type="curve" smooth="yes"/>
+      <point x="344" y="305"/>
+      <point x="297" y="326"/>
+      <point x="198" y="326" type="curve" smooth="yes"/>
+      <point x="111" y="326" type="line"/>
+      <point x="111" y="130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>416</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>416</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

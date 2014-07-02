@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE.sc" format="1">
+  <advance width="595"/>
+  <outline>
+    <contour>
+      <point x="46" y="214" type="curve" smooth="yes"/>
+      <point x="46" y="341"/>
+      <point x="117" y="427"/>
+      <point x="267" y="427" type="curve" smooth="yes"/>
+      <point x="549" y="427" type="line"/>
+      <point x="549" y="404" type="line"/>
+      <point x="340" y="404" type="line"/>
+      <point x="340" y="239" type="line"/>
+      <point x="513" y="239" type="line"/>
+      <point x="513" y="216" type="line"/>
+      <point x="340" y="216" type="line"/>
+      <point x="340" y="24" type="line"/>
+      <point x="557" y="24" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="267" y="0" type="line" smooth="yes"/>
+      <point x="117" y="0"/>
+      <point x="46" y="84"/>
+    </contour>
+    <contour>
+      <point x="269" y="406" type="line" smooth="yes"/>
+      <point x="133" y="406"/>
+      <point x="75" y="332"/>
+      <point x="75" y="214" type="curve" smooth="yes"/>
+      <point x="75" y="102"/>
+      <point x="133" y="23"/>
+      <point x="269" y="23" type="curve" smooth="yes"/>
+      <point x="314" y="23" type="line"/>
+      <point x="314" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>595</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>595</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

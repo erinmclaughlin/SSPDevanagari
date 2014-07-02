@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.sups" format="1">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="166" y="618" type="line"/>
+      <point x="196" y="618" type="line"/>
+      <point x="138" y="543" type="line"/>
+      <point x="114" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="228" type="curve" smooth="yes"/>
+      <point x="81" y="228"/>
+      <point x="27" y="275"/>
+      <point x="27" y="367" type="curve" smooth="yes"/>
+      <point x="27" y="453"/>
+      <point x="80" y="507"/>
+      <point x="146" y="507" type="curve" smooth="yes"/>
+      <point x="231" y="507"/>
+      <point x="250" y="429"/>
+      <point x="250" y="389" type="curve" smooth="yes"/>
+      <point x="250" y="380"/>
+      <point x="251" y="377"/>
+      <point x="248" y="364" type="curve"/>
+      <point x="52" y="364" type="line"/>
+      <point x="52" y="297"/>
+      <point x="89" y="250"/>
+      <point x="153" y="250" type="curve" smooth="yes"/>
+      <point x="182" y="250"/>
+      <point x="209" y="262"/>
+      <point x="228" y="274" type="curve"/>
+      <point x="239" y="256" type="line"/>
+      <point x="217" y="243"/>
+      <point x="191" y="228"/>
+    </contour>
+    <contour>
+      <point x="226" y="385" type="line"/>
+      <point x="226" y="430"/>
+      <point x="206" y="484"/>
+      <point x="146" y="484" type="curve" smooth="yes"/>
+      <point x="93" y="484"/>
+      <point x="59" y="446"/>
+      <point x="52" y="385" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eacute.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>274</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eacute.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>274</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

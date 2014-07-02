@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S.sc" format="1">
+  <advance width="377"/>
+  <outline>
+    <contour>
+      <point x="59" y="73" type="line"/>
+      <point x="92" y="37"/>
+      <point x="139" y="13"/>
+      <point x="196" y="13" type="curve" smooth="yes"/>
+      <point x="270" y="13"/>
+      <point x="315" y="48"/>
+      <point x="315" y="102" type="curve" smooth="yes"/>
+      <point x="315" y="158"/>
+      <point x="278" y="176"/>
+      <point x="230" y="196" type="curve" smooth="yes"/>
+      <point x="170" y="221" type="line"/>
+      <point x="111" y="244"/>
+      <point x="65" y="274"/>
+      <point x="65" y="331" type="curve" smooth="yes"/>
+      <point x="65" y="396"/>
+      <point x="122" y="437"/>
+      <point x="198" y="437" type="curve" smooth="yes"/>
+      <point x="255" y="437"/>
+      <point x="300" y="415"/>
+      <point x="326" y="387" type="curve"/>
+      <point x="310" y="368" type="line"/>
+      <point x="283" y="396"/>
+      <point x="246" y="415"/>
+      <point x="198" y="415" type="curve" smooth="yes"/>
+      <point x="134" y="415"/>
+      <point x="92" y="383"/>
+      <point x="92" y="333" type="curve" smooth="yes"/>
+      <point x="92" y="287"/>
+      <point x="123" y="269"/>
+      <point x="177" y="246" type="curve" smooth="yes"/>
+      <point x="239" y="220" type="line" smooth="yes"/>
+      <point x="303" y="193"/>
+      <point x="342" y="173"/>
+      <point x="342" y="104" type="curve" smooth="yes"/>
+      <point x="342" y="39"/>
+      <point x="284" y="-10"/>
+      <point x="196" y="-10" type="curve" smooth="yes"/>
+      <point x="126" y="-10"/>
+      <point x="77" y="17"/>
+      <point x="40" y="54" type="curve"/>
+    </contour>
+    <contour>
+      <point x="201" y="471" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="197" y="0" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="210" y="-19" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>S.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>377</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>S.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>377</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

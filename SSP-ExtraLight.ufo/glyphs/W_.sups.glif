@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.sups" format="1">
+  <advance width="424"/>
+  <outline>
+    <contour>
+      <point x="14" y="588" type="line"/>
+      <point x="40" y="588" type="line"/>
+      <point x="87" y="375" type="line" smooth="yes"/>
+      <point x="96" y="335"/>
+      <point x="104" y="297"/>
+      <point x="112" y="257" type="curve"/>
+      <point x="114" y="257" type="line"/>
+      <point x="122" y="297"/>
+      <point x="131" y="335"/>
+      <point x="142" y="375" type="curve" smooth="yes"/>
+      <point x="200" y="588" type="line"/>
+      <point x="225" y="588" type="line"/>
+      <point x="283" y="375" type="line" smooth="yes"/>
+      <point x="294" y="335"/>
+      <point x="303" y="297"/>
+      <point x="313" y="257" type="curve"/>
+      <point x="315" y="257" type="line"/>
+      <point x="324" y="297"/>
+      <point x="330" y="335"/>
+      <point x="339" y="375" type="curve" smooth="yes"/>
+      <point x="386" y="588" type="line"/>
+      <point x="411" y="588" type="line"/>
+      <point x="326" y="226" type="line"/>
+      <point x="301" y="226" type="line"/>
+      <point x="232" y="475" type="line" smooth="yes"/>
+      <point x="225" y="504"/>
+      <point x="220" y="528"/>
+      <point x="214" y="557" type="curve"/>
+      <point x="212" y="557" type="line"/>
+      <point x="205" y="528"/>
+      <point x="198" y="504"/>
+      <point x="191" y="475" type="curve" smooth="yes"/>
+      <point x="124" y="226" type="line"/>
+      <point x="98" y="226" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>424</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>424</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

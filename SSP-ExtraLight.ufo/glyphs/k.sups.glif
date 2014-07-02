@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.sups" format="1">
+  <advance width="260"/>
+  <unicode hex="1D4F"/>
+  <outline>
+    <contour>
+      <point x="50" y="623" type="line"/>
+      <point x="73" y="623" type="line"/>
+      <point x="73" y="333" type="line"/>
+      <point x="77" y="333" type="line"/>
+      <point x="210" y="491" type="line"/>
+      <point x="239" y="491" type="line"/>
+      <point x="151" y="385" type="line"/>
+      <point x="255" y="226" type="line"/>
+      <point x="226" y="226" type="line"/>
+      <point x="134" y="367" type="line"/>
+      <point x="73" y="295" type="line"/>
+      <point x="73" y="226" type="line"/>
+      <point x="50" y="226" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>260</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k.sups</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>260</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

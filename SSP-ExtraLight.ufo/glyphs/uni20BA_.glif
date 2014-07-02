@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BA" format="1">
+  <advance width="396"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="140" y="15" type="line"/>
+      <point x="224" y="15"/>
+      <point x="342" y="65"/>
+      <point x="342" y="176" type="curve" smooth="yes"/>
+      <point x="342" y="189"/>
+      <point x="343" y="202"/>
+      <point x="337" y="221" type="curve"/>
+      <point x="361" y="230" type="line"/>
+      <point x="366" y="207"/>
+      <point x="367" y="196"/>
+      <point x="367" y="177" type="curve" smooth="yes"/>
+      <point x="367" y="46"/>
+      <point x="241" y="-13"/>
+      <point x="114" y="-10" type="curve"/>
+      <point x="114" y="247" type="line"/>
+      <point x="25" y="201" type="line"/>
+      <point x="25" y="226" type="line"/>
+      <point x="114" y="271" type="line"/>
+      <point x="114" y="344" type="line"/>
+      <point x="25" y="298" type="line"/>
+      <point x="25" y="323" type="line"/>
+      <point x="114" y="368" type="line"/>
+      <point x="114" y="536" type="line"/>
+      <point x="140" y="536" type="line"/>
+      <point x="140" y="381" type="line"/>
+      <point x="291" y="461" type="line"/>
+      <point x="291" y="436" type="line"/>
+      <point x="140" y="357" type="line"/>
+      <point x="140" y="285" type="line"/>
+      <point x="291" y="364" type="line"/>
+      <point x="291" y="339" type="line"/>
+      <point x="140" y="260" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20BA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>396</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20BA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>396</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

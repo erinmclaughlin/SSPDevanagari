@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03060309" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="482" type="curve" smooth="yes"/>
+      <point x="-66" y="482"/>
+      <point x="-93" y="540"/>
+      <point x="-97" y="580" type="curve"/>
+      <point x="-75" y="580" type="line"/>
+      <point x="-72" y="543"/>
+      <point x="-47" y="505"/>
+      <point x="0" y="505" type="curve" smooth="yes"/>
+      <point x="46" y="505"/>
+      <point x="71" y="543"/>
+      <point x="75" y="580" type="curve"/>
+      <point x="97" y="580" type="line"/>
+      <point x="93" y="540"/>
+      <point x="66" y="482"/>
+    </contour>
+    <contour>
+      <point x="-24" y="582" type="line"/>
+      <point x="3" y="590"/>
+      <point x="21" y="602"/>
+      <point x="21" y="622" type="curve" smooth="yes"/>
+      <point x="21" y="649"/>
+      <point x="0" y="660"/>
+      <point x="-40" y="661" type="curve"/>
+      <point x="-38" y="682" type="line"/>
+      <point x="5" y="679"/>
+      <point x="46" y="665"/>
+      <point x="46" y="624" type="curve" smooth="yes"/>
+      <point x="46" y="589"/>
+      <point x="12" y="571"/>
+      <point x="-17" y="563" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="418" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni03060309</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni03060309</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

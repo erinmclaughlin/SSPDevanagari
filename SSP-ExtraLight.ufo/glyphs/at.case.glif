@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at.case" format="1">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="44" y="241" type="curve" smooth="yes"/>
+      <point x="44" y="438"/>
+      <point x="188" y="567"/>
+      <point x="350" y="567" type="curve" smooth="yes"/>
+      <point x="487" y="567"/>
+      <point x="580" y="477"/>
+      <point x="580" y="331" type="curve" smooth="yes"/>
+      <point x="580" y="203"/>
+      <point x="509" y="130"/>
+      <point x="444" y="130" type="curve" smooth="yes"/>
+      <point x="404" y="130"/>
+      <point x="378" y="155"/>
+      <point x="375" y="195" type="curve"/>
+      <point x="373" y="195" type="line"/>
+      <point x="344" y="162"/>
+      <point x="316" y="136"/>
+      <point x="272" y="136" type="curve" smooth="yes"/>
+      <point x="228" y="136"/>
+      <point x="186" y="175"/>
+      <point x="186" y="239" type="curve" smooth="yes"/>
+      <point x="186" y="315"/>
+      <point x="235" y="418"/>
+      <point x="337" y="418" type="curve" smooth="yes"/>
+      <point x="364" y="418"/>
+      <point x="386" y="406"/>
+      <point x="402" y="379" type="curve"/>
+      <point x="404" y="379" type="line"/>
+      <point x="413" y="413" type="line"/>
+      <point x="436" y="413" type="line"/>
+      <point x="406" y="272" type="line" smooth="yes"/>
+      <point x="386" y="187"/>
+      <point x="398" y="155"/>
+      <point x="448" y="155" type="curve" smooth="yes"/>
+      <point x="496" y="155"/>
+      <point x="555" y="216"/>
+      <point x="555" y="330" type="curve" smooth="yes"/>
+      <point x="555" y="466"/>
+      <point x="473" y="545"/>
+      <point x="345" y="545" type="curve" smooth="yes"/>
+      <point x="201" y="545"/>
+      <point x="69" y="426"/>
+      <point x="69" y="243" type="curve" smooth="yes"/>
+      <point x="69" y="91"/>
+      <point x="163" y="10"/>
+      <point x="300" y="10" type="curve" smooth="yes"/>
+      <point x="343" y="10"/>
+      <point x="380" y="20"/>
+      <point x="413" y="42" type="curve"/>
+      <point x="423" y="24" type="line"/>
+      <point x="387" y="-3"/>
+      <point x="344" y="-13"/>
+      <point x="298" y="-13" type="curve" smooth="yes"/>
+      <point x="150" y="-13"/>
+      <point x="44" y="78"/>
+    </contour>
+    <contour>
+      <point x="276" y="159" type="curve" smooth="yes"/>
+      <point x="304" y="159"/>
+      <point x="334" y="177"/>
+      <point x="370" y="218" type="curve"/>
+      <point x="398" y="352" type="line"/>
+      <point x="374" y="385"/>
+      <point x="361" y="396"/>
+      <point x="333" y="396" type="curve" smooth="yes"/>
+      <point x="257" y="396"/>
+      <point x="212" y="314"/>
+      <point x="212" y="245" type="curve" smooth="yes"/>
+      <point x="212" y="185"/>
+      <point x="240" y="159"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>at.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>623</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>at.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>623</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

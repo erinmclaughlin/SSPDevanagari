@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.sc" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="25" y="427" type="line"/>
+      <point x="53" y="427" type="line"/>
+      <point x="113" y="174" type="line"/>
+      <point x="146" y="34" type="line"/>
+      <point x="149" y="34" type="line"/>
+      <point x="187" y="174" type="line"/>
+      <point x="262" y="427" type="line"/>
+      <point x="289" y="427" type="line"/>
+      <point x="364" y="174" type="line"/>
+      <point x="376" y="127"/>
+      <point x="389" y="81"/>
+      <point x="402" y="34" type="curve"/>
+      <point x="406" y="34" type="line"/>
+      <point x="416" y="81"/>
+      <point x="424" y="127"/>
+      <point x="437" y="174" type="curve"/>
+      <point x="498" y="427" type="line"/>
+      <point x="523" y="427" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="302" y="298" type="line"/>
+      <point x="292" y="332"/>
+      <point x="286" y="362"/>
+      <point x="276" y="395" type="curve"/>
+      <point x="272" y="395" type="line"/>
+      <point x="247" y="298" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="471" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="274" y="-19" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

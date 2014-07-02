@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E9E.sc" format="1">
+  <advance width="469"/>
+  <outline>
+    <contour>
+      <point x="83" y="272" type="line" smooth="yes"/>
+      <point x="83" y="377"/>
+      <point x="155" y="437"/>
+      <point x="251" y="437" type="curve" smooth="yes"/>
+      <point x="320" y="437"/>
+      <point x="362" y="400"/>
+      <point x="388" y="346" type="curve"/>
+      <point x="275" y="234" type="line"/>
+      <point x="394" y="217"/>
+      <point x="431" y="169"/>
+      <point x="431" y="107" type="curve" smooth="yes"/>
+      <point x="431" y="44"/>
+      <point x="377" y="-10"/>
+      <point x="305" y="-10" type="curve" smooth="yes"/>
+      <point x="255" y="-10"/>
+      <point x="210" y="9"/>
+      <point x="179" y="42" type="curve"/>
+      <point x="197" y="63" type="line"/>
+      <point x="228" y="28"/>
+      <point x="262" y="15"/>
+      <point x="306" y="15" type="curve" smooth="yes"/>
+      <point x="368" y="15"/>
+      <point x="402" y="54"/>
+      <point x="402" y="107" type="curve" smooth="yes"/>
+      <point x="402" y="158"/>
+      <point x="376" y="195"/>
+      <point x="247" y="215" type="curve"/>
+      <point x="246" y="236" type="line"/>
+      <point x="357" y="347" type="line"/>
+      <point x="338" y="382"/>
+      <point x="305" y="413"/>
+      <point x="250" y="413" type="curve" smooth="yes"/>
+      <point x="163" y="413"/>
+      <point x="111" y="366"/>
+      <point x="111" y="265" type="curve" smooth="yes"/>
+      <point x="111" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1E9E.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>469</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1E9E.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>469</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

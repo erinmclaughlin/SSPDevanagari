@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni27E6" format="1">
+  <advance width="276"/>
+  <unicode hex="27E6"/>
+  <outline>
+    <contour>
+      <point x="83" y="593" type="line"/>
+      <point x="262" y="593" type="line"/>
+      <point x="262" y="574" type="line"/>
+      <point x="158" y="574" type="line"/>
+      <point x="158" y="-109" type="line"/>
+      <point x="262" y="-109" type="line"/>
+      <point x="262" y="-127" type="line"/>
+      <point x="83" y="-127" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="-109" type="line"/>
+      <point x="138" y="-109" type="line"/>
+      <point x="138" y="574" type="line"/>
+      <point x="104" y="574" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni27E6</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>276</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni27E6</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>276</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

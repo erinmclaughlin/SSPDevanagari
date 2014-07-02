@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="396"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="197" y="398" type="curve" smooth="yes"/>
+      <point x="181" y="398"/>
+      <point x="171" y="408"/>
+      <point x="171" y="427" type="curve" smooth="yes"/>
+      <point x="171" y="444"/>
+      <point x="181" y="456"/>
+      <point x="197" y="456" type="curve" smooth="yes"/>
+      <point x="214" y="456"/>
+      <point x="224" y="444"/>
+      <point x="224" y="427" type="curve" smooth="yes"/>
+      <point x="224" y="408"/>
+      <point x="214" y="398"/>
+    </contour>
+    <contour>
+      <point x="171" y="125" type="curve" smooth="yes"/>
+      <point x="171" y="142"/>
+      <point x="181" y="155"/>
+      <point x="197" y="155" type="curve" smooth="yes"/>
+      <point x="214" y="155"/>
+      <point x="224" y="142"/>
+      <point x="224" y="125" type="curve" smooth="yes"/>
+      <point x="224" y="106"/>
+      <point x="214" y="96"/>
+      <point x="197" y="96" type="curve" smooth="yes"/>
+      <point x="181" y="96"/>
+      <point x="171" y="106"/>
+    </contour>
+    <contour>
+      <point x="28" y="288" type="line"/>
+      <point x="367" y="288" type="line"/>
+      <point x="367" y="265" type="line"/>
+      <point x="28" y="265" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>396</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>396</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0261" format="1">
+  <advance width="453"/>
+  <unicode hex="0261"/>
+  <outline>
+    <contour>
+      <point x="90" y="-130" type="line"/>
+      <point x="130" y="-161"/>
+      <point x="172" y="-173"/>
+      <point x="216" y="-173" type="curve" smooth="yes"/>
+      <point x="303" y="-173"/>
+      <point x="347" y="-122"/>
+      <point x="347" y="-33" type="curve" smooth="yes"/>
+      <point x="347" y="64" type="line"/>
+      <point x="314" y="28"/>
+      <point x="268" y="-2"/>
+      <point x="212" y="-2" type="curve" smooth="yes"/>
+      <point x="111" y="-2"/>
+      <point x="46" y="71"/>
+      <point x="46" y="205" type="curve" smooth="yes"/>
+      <point x="46" y="331"/>
+      <point x="127" y="411"/>
+      <point x="224" y="411" type="curve" smooth="yes"/>
+      <point x="273" y="411"/>
+      <point x="307" y="393"/>
+      <point x="344" y="364" type="curve"/>
+      <point x="345" y="364" type="line"/>
+      <point x="348" y="400" type="line"/>
+      <point x="372" y="400" type="line"/>
+      <point x="372" y="-40" type="line" smooth="yes"/>
+      <point x="372" y="-135"/>
+      <point x="316" y="-196"/>
+      <point x="216" y="-196" type="curve" smooth="yes"/>
+      <point x="160" y="-196"/>
+      <point x="117" y="-179"/>
+      <point x="77" y="-153" type="curve"/>
+    </contour>
+    <contour>
+      <point x="214" y="22" type="curve" smooth="yes"/>
+      <point x="260" y="22"/>
+      <point x="301" y="46"/>
+      <point x="347" y="92" type="curve"/>
+      <point x="347" y="331" type="line"/>
+      <point x="301" y="372"/>
+      <point x="266" y="387"/>
+      <point x="222" y="387" type="curve" smooth="yes"/>
+      <point x="138" y="387"/>
+      <point x="72" y="307"/>
+      <point x="72" y="205" type="curve" smooth="yes"/>
+      <point x="72" y="96"/>
+      <point x="122" y="22"/>
+    </contour>
+    <contour>
+      <point x="230" y="418" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="219" y="-189" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0261</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0261</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

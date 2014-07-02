@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="461"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="83" y="553" type="line"/>
+      <point x="111" y="553" type="line"/>
+      <point x="111" y="234" type="line"/>
+      <point x="113" y="234" type="line"/>
+      <point x="394" y="553" type="line"/>
+      <point x="427" y="553" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="230" y="330" type="line"/>
+      <point x="111" y="196" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="571" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="271" y="-19" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>461</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>461</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
